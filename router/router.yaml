@@ -34,3 +34,8 @@ subscription:
         products:
           path: /
 ## Enter Workshop Module Configs Below
+
+limits:
+  max_depth: 50
+  max_height: 100
+  max_aliases: 30
